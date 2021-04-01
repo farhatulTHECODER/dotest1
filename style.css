@@ -1,0 +1,12 @@
+@media only screen and (orientation:portrait){
+    body{
+          /* height: 100vh; */
+          margin: 0px;
+          padding: 0px;
+          transform: rotate(90deg);
+          overflow: hidden;
+      }
+    }
+/* body h1{
+    text-align: center;
+} */
